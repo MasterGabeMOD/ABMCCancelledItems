@@ -1,0 +1,6 @@
+name: ABMCCancelledItems
+version: 1.0
+authors:
+  - MasterGabeMOD
+  - Akutasan
+main: server.alanbecker.net.Main
